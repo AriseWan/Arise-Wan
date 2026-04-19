@@ -75,7 +75,7 @@
 <body>
 
 <header>
-    <h1>WAN MEI ZHEN</h1>
+    <h1>ARISE WAN</h1>
     <p class="subtitle">Architect | Visual Artist | Future Space Designer</p>
 </header>
 
